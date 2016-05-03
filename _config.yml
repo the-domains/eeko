@@ -1,0 +1,28 @@
+name: eeko
+favicon: null
+layout_spectrum: 0.532609231537208
+typography_spectrum: 0.9626461106818169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38752228301018476
+  lightness: 0.10993401962332428
+  saturation: 0.042043007677420974
+  rhythmicContrast: 0.9747391371056437
+purpose: []
