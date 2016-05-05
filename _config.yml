@@ -2,6 +2,7 @@ name: eeko
 favicon: null
 layout_spectrum: 0.532609231537208
 typography_spectrum: 0.9626461106818169
+title: "eeko's site"
 cta:
   domain: null
   bucket: null
